@@ -35,25 +35,31 @@
 - **Sign-Up/Sign-In/Password Reset**: Developed functionalities for standard user sign-up, sign-in, and password reset processes.
 - **Two-Factor Authentication (2FA)**: I implemented 2FA to add an additional layer of security to user accounts.
 
-### Friend Management 
+### Friend Management
 - **Add/Remove Friends**: Users can send friend requests, accept or decline, and remove friends from their list.
 - **Block/Unblock Users**: I implemented the ability for users to block or unblock others, improving privacy and control over their interactions.
 
-### DevOps and Infrastructure 
+### DevOps and Infrastructure
 - **PostgreSQL**: Configured and optimized the PostgreSQL database to store user and game data.
 - **Redis**: Integrated Redis to cache data and improve performance, especially for the chat system and real-time features.
 - **Docker**: Containerized the application to ensure a consistent development and production environment.
 - **Nginx with SSL**: Configured Nginx to serve the frontend and handle requests securely with SSL, ensuring encrypted communication.
 
+### Routing
+- **Frontend Routing**: I implemented client-side routing in the frontend using JavaScript to create a **Single Page Application (SPA)**. This allows users to navigate between pages like **sign-in**, **sign-up**, **password reset**, and **profile edit** without full page reloads, creating a smoother and faster user experience.
+  - I utilized **JavaScript** to handle the URL changes and dynamically load different components based on the route.
+  - Managed **URL parameters** and **query strings** to handle actions such as resetting passwords and editing user settings.
+
+- **Backend Routing (Django)**: On the backend, I created and configured the API endpoints using **Django REST Framework** for functionalities such as user management, authentication, and friend management. 
+  - I designed and implemented the following API endpoints:
+    - **Sign-Up**: Endpoint for creating a new user.
+    - **Sign-In**: Endpoint for user login and JWT token issuance.
+    - **Password Reset**: Endpoint to request a password reset link.
+    - **2FA Authentication**: Endpoint for enabling and verifying two-factor authentication.
+    - **Friend Management**: Endpoints for adding, removing, and blocking friends.
+    - **User Profile Management**: Endpoint to edit user profile settings, including updating personal information and avatar.
+
 ---
-
-## Frontend Development ⚡ 
-- **Single Page Application (SPA)**: I designed and developed the concept of the sign-in page and other essential pages (sign-up, edit profile, reset password, etc.) using **Vanilla JavaScript**.
-- **User Interface**: Designed the user interface for the user management section, including features like sign-in, sign-up, password reset, and profile editing.
-- **Frontend and Backend Integration**: Worked on integrating the frontend with the backend, ensuring smooth interaction between the user interface and the backend services (JWT authentication, user management, etc.).
-
----
-
 ## Technologies Used  🛠️
 
 ### Backend
