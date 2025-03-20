@@ -1,5 +1,26 @@
-# ft_transcendence_42
+<p align="center">
+  <img src="https://github.com/maaloum-yassine/42/blob/main/logo_project42/inceptionn.png" alt="Cub3D 42 project badge"/>
+</p>
 
+## 🎥 Score 🥇✅
+<p align="center">
+  <img src="https://github.com/maaloum-yassine/42/blob/main/score/Inception42.png" alt="Score 42 project 125"/>
+</p>
+
+---
+
+## 🎥 **Demo Video**
+<div align="center">
+  <strong style="font-size: 20px; color: #0073e6;">Click below to watch the Inception42 project:</strong>  
+  <br>
+  <a href="https://vimeo.com/1065029898" style="font-size: 22px; font-weight: bold; color: #FF6347; text-decoration: none; background-color: #f0f0f0; padding: 15px 30px; border-radius: 8px; border: 2px solid #FF6347;">
+    ➡️ **[Watch my Inception_42 on Vimeo]** ⬅️
+  </a>
+</div>
+
+---
+
+## Project Overview
 ## Description
 **Transcendence** is a full-stack web application developed with **Django** for the backend and **HTML, CSS, JavaScript (Vanilla JS)** for the frontend. The project includes advanced features such as user management, multi-factor authentication, friend management, a real-time chat system, online games, and a tournament module.
 
