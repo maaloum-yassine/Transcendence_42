@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/maaloum-yassine/42/blob/main/logo_project42/inceptionn.png" alt="Cub3D 42 project badge"/>
+  <img src="https://github.com/maaloum-yassine/42/blob/main/logo_project42/ft_transcendencem.png" alt="transcendence 42 project badge"/>
 </p>
 
 ## 🎥 Score 🥇✅
 <p align="center">
-  <img src="https://github.com/maaloum-yassine/42/blob/main/score/Inception42.png" alt="Score 42 project 125"/>
+  <img src="https://github.com/maaloum-yassine/42/blob/main/score/ft_transcendence.png" alt="Score 42 project 125"/>
 </p>
 
 ---
