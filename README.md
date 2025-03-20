@@ -27,7 +27,7 @@
 
 ---
 
-## My Tasks
+## My Tasks 🚀 🛠️
 
 ### User Management and Authentication
 - **JWT Token Authentication**: I worked on implementing JWT-based authentication to secure API access and manage user sessions.
@@ -35,11 +35,11 @@
 - **Sign-Up/Sign-In/Password Reset**: Developed functionalities for standard user sign-up, sign-in, and password reset processes.
 - **Two-Factor Authentication (2FA)**: I implemented 2FA to add an additional layer of security to user accounts.
 
-### Friend Management
+### Friend Management 
 - **Add/Remove Friends**: Users can send friend requests, accept or decline, and remove friends from their list.
 - **Block/Unblock Users**: I implemented the ability for users to block or unblock others, improving privacy and control over their interactions.
 
-### DevOps and Infrastructure
+### DevOps and Infrastructure 
 - **PostgreSQL**: Configured and optimized the PostgreSQL database to store user and game data.
 - **Redis**: Integrated Redis to cache data and improve performance, especially for the chat system and real-time features.
 - **Docker**: Containerized the application to ensure a consistent development and production environment.
@@ -47,14 +47,14 @@
 
 ---
 
-## Frontend Development
+## Frontend Development ⚡ 
 - **Single Page Application (SPA)**: I designed and developed the concept of the sign-in page and other essential pages (sign-up, edit profile, reset password, etc.) using **Vanilla JavaScript**.
 - **User Interface**: Designed the user interface for the user management section, including features like sign-in, sign-up, password reset, and profile editing.
 - **Frontend and Backend Integration**: Worked on integrating the frontend with the backend, ensuring smooth interaction between the user interface and the backend services (JWT authentication, user management, etc.).
 
 ---
 
-## Technologies Used
+## Technologies Used  🛠️
 
 ### Backend
 - **Django**: Web framework for user management and APIs
@@ -76,7 +76,7 @@
 
 ---
 
-## Features
+## Features 🌀
 
 ### 1. User Management
 - Standard sign-up and login
@@ -106,7 +106,7 @@
 
 ---
 
-## Screenshots
+## Screenshots 📌 🔥
 <p align="center">
   <img src="./image_project/1.png" alt="Screenshot 1" style="width: 80%;">
   <img src="./image_project/2.png" alt="Screenshot 2" style="width: 80%;">
