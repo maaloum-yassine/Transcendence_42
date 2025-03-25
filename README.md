@@ -9,7 +9,7 @@
 
 ---
 
-## 🎥 **Demo Video**
+## 🎥 **Video**
 <div align="center">
   <strong style="font-size: 20px; color: #0073e6;">Click below to watch the Inception42 project:</strong>  
   <br>
