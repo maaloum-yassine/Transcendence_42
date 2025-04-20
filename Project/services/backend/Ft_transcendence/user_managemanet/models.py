@@ -12,7 +12,7 @@ class CustomUser(AbstractUser):
     last_name = models.CharField(max_length=150, null=False)
     avatar = models.CharField(max_length=255, default='avatars/default_avatar.png', blank=True)
     code_otp = models.CharField(max_length=64, null=True)
-    is_email_verified = models.BooleanField(default=False, null=True)
+    is_email_verified = models.BooleanField(default=False)
     active_2fa = models.BooleanField(default=False, null=True)
     is_logged_2fa = models.BooleanField(default=False, null=True)
     is_online = models.BooleanField(default=False, null=True)
